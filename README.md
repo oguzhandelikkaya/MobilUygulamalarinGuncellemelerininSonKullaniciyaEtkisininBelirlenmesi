@@ -1,7 +1,7 @@
 Mobil Uygulamaların Güncellemelerinin Son Kullanıcıya Etkisinin Belirlenmesi
 
 Tübitak 2209-A Üniversite Öğrencileri Araştırma Projeleri Destekleme Programı tarafından kabul olan ve başarıyla tamamlayıp teslim ettiğim projem olan "Mobil Uygulamaların Güncellemelerinin Son
-Kullanıcıya Etkisinin Belirlenmesi" hakkın yaptığım tüm çalışmalar. 
+Kullanıcıya Etkisinin Belirlenmesi" hakkında yaptığım tüm çalışmalar. 
 
 Projenin Özeti: 
 Proje, Google Play Store ve App Store gibi mobil uygulama platformlarındaki uygulama yorumları üzerinden
